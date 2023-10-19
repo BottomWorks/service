@@ -1,0 +1,9 @@
+{
+  "name": "myservice",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "^3.7.4"
+  }
+}
